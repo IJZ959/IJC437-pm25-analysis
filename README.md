@@ -10,11 +10,11 @@ time-based statistical models.
 2. Is there evidence that simple time-based models improve the explanation of daily PM2.5 concentrations compared to a baseline model?
 
 ## Files
-- intro.r : main analysis script
+- intro_pm.R : main analysis script
 - figures/ : exported figures used in the coursework report
 
 ## How to run
-1. Open `intro.r` in RStudio
+1. Open `intro_pm.R` in RStudio
 2. Install required R packages listed at the top of the script
 3. Set your OpenAQ API key using `Sys.setenv()`
 4. Run the script from top to bottom
